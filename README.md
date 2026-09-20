@@ -284,8 +284,3 @@ Master of Applied Computing, University of Windsor
 
 ---
 
-<div align="center">
-
-⭐ If you found this project useful, please star the repository.
-
-</div>
